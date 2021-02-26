@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I'm Edur👋
+
+  /\_/\  (
+ ( ^.^ ) _)
+   \"/  (
+ ( | | )
+(__d b__)
+
+- 💻 Love coding. 
+- 🎹 Love music .
+- 🌱 Love Nature.
 
 <!--
 **eduru/eduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
