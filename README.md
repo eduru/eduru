@@ -1,10 +1,6 @@
 ### Hi there I'm Edur👋
 
-  /\_/\  (
- ( ^.^ ) _)
-   \"/  (
- ( | | )
-(__d b__)
+✨ ^.^ ) _)✨
 
 - 💻 Love coding. 
 - 🎹 Love music .
