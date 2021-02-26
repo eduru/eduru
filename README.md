@@ -1,6 +1,6 @@
 ### Hi there I'm Edur👋
 
-✨ ^.^ ) _)✨
+✨(  ^ . ^  ) _ )✨
 
 - 💻 Love coding. 
 - 🎹 Love music .
