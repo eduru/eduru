@@ -5,6 +5,8 @@
 - 💻 Love coding. 
 - 🎹 Love music .
 - 🌱 Love Nature.
+- 📚 I’m currently learning Data Structures & Algorithms, they are really cool!!
+
 
 <!--
 **eduru/eduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
