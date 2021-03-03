@@ -2,9 +2,9 @@
 
 ✨(  ^ . ^  ) _ )✨
 
-- 💻 Love coding. 
 - 🎹 Love music .
 - 🌱 Love Nature.
+- 💻 Love coding. 
 - 📚 I’m currently learning Data Structures & Algorithms, they are really cool!!
 
 
